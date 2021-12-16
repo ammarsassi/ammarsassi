@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ammarsassi
 - 👀 I’m interested in back-end & front-end development 
-- 🌱 I’m currently learning JEE  and DevOps technologies 
-- 💞️ I’m looking to collaborate on Freelance projects 
+- 🌱 I’m currently learning Java/JEE (Swing / AWT/ SpringBoot / Spring MVC / Spring Rest API), UML & design patterns, Databases (MySQL / Oracle) and DevOps technologies (Git / GitHub / Maven / Docker / Kubernetes)
+- 💞️ I’m looking to collaborate on Freelance projects and I'm ready for new challenges
 - 📫 How to reach me sassi.ammar@hotmail.com or via linkedin profile : http://www.linkedin.com/in/ammar-sassi
 
 <!---
